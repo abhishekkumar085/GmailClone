@@ -18,3 +18,6 @@ Below is the link for the Gmail website.
 ## Sample Output
 
 [Gmail Output](file:///C:/Users/kr485/Downloads/01%20Gmail%20Clone/01%20Gmail%20Clone/output/Screenshot%202023-12-06%20154809.png)
+
+
+![output](file:///C:/Users/kr485/Downloads/01%20Gmail%20Clone/01%20Gmail%20Clone/output/Screenshot%202023-12-06%20154809.png)
