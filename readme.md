@@ -17,6 +17,4 @@ Below is the link for the Gmail website.
 
 ## Sample Output
 
-
-
-[output](output\Screenshot 2023-12-06 154809.png)
+![Gmail output](output/Screenshot 2023-12-06 154809.png)
