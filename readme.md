@@ -16,5 +16,4 @@ Below is the link for the Gmail website.
 [Gmail Website](https://mail.google.com/)
 
 ## Sample Output
-
-![Gmail output](output/Screenshot 2023-12-06 154809.png)
+[Gmail Output](https://www.facebook.com/)
