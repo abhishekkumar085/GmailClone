@@ -16,5 +16,7 @@ Below is the link for the Gmail website.
 [Gmail Website](https://mail.google.com/)
 
 ## Sample Output
-![Gmail Output](C:\Users\kr485\Downloads\01 Gmail Clone\01 Gmail Clone\Screenshot 2023-12-06 154809.png)
 
+
+
+[output](output\Screenshot 2023-12-06 154809.png)
